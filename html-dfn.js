@@ -46,6 +46,8 @@ function handleClick(event) {
     specURL = node.firstChild.href;
     event.preventDefault();
   }
+
+  /* code with ammar add this commit */
   loadReferences(id, path, specURL);
   node.appendChild(dfnPanel);
   if (isMultipage) {
