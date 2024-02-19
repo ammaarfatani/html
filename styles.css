@@ -46,6 +46,7 @@ td.eg { border-width: thin; text-align: center; }
 }
 
 /* code with ammarfatani */
+/* Add comments */
 #table-fa .example::before { display: block; }
 
 .apple-table-examples { border: none; border-collapse: separate; border-spacing: 1.5em 0em; width: 40em; margin-left: 3em; }
